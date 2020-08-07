@@ -1,6 +1,6 @@
 ### Hi there, I'm André 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Developer, Student and a Friend!
 - 🔭 I’m currently working on KingHost as Development Analyst!
 - 🚀 I’m currently learning TypeScript, ReactJS, ReactNative and Product Owner
 - 🎯 2020 Goals: Learn more about JavaScript and make personals projects
@@ -27,8 +27,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-<br />
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
 
 
