@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Student and a Friend!
 - 🔭 I’m currently working on Firedev as Front-end Engineer!
-- 🚀 I’m currently learning TypeScript, ReactJS, ReactNative
+- 🚀 I’m currently working with ReactJS and ReactNative
 - ⚡ Fun fact: I have 12 cats 🐈
 
 ### Connect with me:
