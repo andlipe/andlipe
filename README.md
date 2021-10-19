@@ -1,9 +1,8 @@
 ### Hi there, I'm André 👋
 
 ## I'm a Developer, Student and a Friend!
-- 🔭 I’m currently working on KingHost as Development Analyst!
-- 🚀 I’m currently learning TypeScript, ReactJS, ReactNative and Product Owner
-- 🎯 2020 Goals: Learn more about JavaScript and make personals projects
+- 🔭 I’m currently working on Firedev as Front-end Engineer!
+- 🚀 I’m currently learning TypeScript, ReactJS, ReactNative
 - ⚡ Fun fact: I have 12 cats 🐈
 
 ### Connect with me:
